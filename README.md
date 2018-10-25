@@ -1,0 +1,1 @@
+# gorm-service-inheritance-issue
