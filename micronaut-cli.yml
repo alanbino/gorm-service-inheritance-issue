@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: gorm.service.inheritance.issue
+---
+testFramework: spock
+sourceLanguage: groovy
